@@ -192,7 +192,7 @@ for layer in range(device_idx, len(model.model.layers), len(devices)):
         sample_kwargs=dict(use_cache=True)
     )
     all_layers[layer] = dst_info
-    with open(f'results/just_kidding/dst_generations_all_layers_{device_idx}.pkl', 'wb') as fp:
+    with open(f'results/fir/dst_generations_all_layers_{device_idx}.pkl', 'wb') as fp:
         pickle.dump(all_layers, fp)
     end_time = time.time()
     print(f' --- layer {layer} finished in {end_time-start_time:.2f} seconds ---')

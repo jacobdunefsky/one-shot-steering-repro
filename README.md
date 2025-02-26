@@ -12,7 +12,7 @@ To create an Anaconda environment named `one_shot` with the rest of the requirem
 
 ## Repository organization
 
-The repository is organized such that the code required to reproduce the results in Section 3 of our paper is contained in the Jupyter Notebook `poser.ipynb`, the code required to reproduce the results in Section 4 is contained in `refusal.ipynb`, and the code required to reproduce the results in Section 5 is contained in `just_kidding.ipynb`. Instructions for using the other scripts present in this repository are given in the notebooks where they are used.
+The repository is organized such that the code required to reproduce the results in Section 3 of our paper is contained in the Jupyter Notebook `poser.ipynb`, the code required to reproduce the results in Section 4 is contained in `refusal.ipynb`, and the code required to reproduce the results in Section 5 is contained in `fictitious_info_retraction.ipynb`. Instructions for using the other scripts present in this repository are given in the notebooks where they are used.
 
 ## Info on our standalone steering optimization repository
 
