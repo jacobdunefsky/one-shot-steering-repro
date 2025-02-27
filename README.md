@@ -1,6 +1,6 @@
 # Code for our paper "Investigating Generalization of One-shot LLM Steering Vectors"
 
-This repository contains code for reproducing the results of our paper ["Investigating Generalization of One-shot LLM Steering Vectors"](One_shot_steering.pdf).
+This repository contains code for reproducing the results of our paper ["Investigating Generalization of One-shot LLM Steering Vectors"](https://arxiv.org/pdf/2502.18862).
 
 ## Requirements
 
