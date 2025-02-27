@@ -23,10 +23,13 @@ If you're interested in optimizing steering vectors for your own purposes, we re
 Please cite this work as
 
     @misc{dunefsky2025oneshot,
-        title = {Investigating Generalization of One-shot LLM Steering Vectors},
-        author = {Jacob Dunefsky and Arman Cohan},
-        year = {2025},
-        howpublished = {\url{https://github.com/jacobdunefsky/one-shot-steering-repro}},
+      title={Investigating Generalization of One-shot LLM Steering Vectors}, 
+      author={Jacob Dunefsky and Arman Cohan},
+      year={2025},
+      eprint={2502.18862},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.18862}, 
     }
 
 For any questions/comments/concerns, feel free to reach out to `jacob [dot] dunefsky [at] yale [dot] edu`.
